@@ -1,17 +1,7 @@
 # latihan
 
-A new Flutter project.
+Berikut adalah hasil kode diatas 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="966" height="917" alt="Screenshot 2026-04-01 202339" src="https://github.com/user-attachments/assets/e5e8b3eb-b266-4b2b-b400-dfd0d47a5f0f" />
+<img width="962" height="919" alt="Screenshot 2026-04-01 202353" src="https://github.com/user-attachments/assets/ba1e449a-1790-4a9b-9655-5521b125394b" />
+<img width="964" height="921" alt="Screenshot 2026-04-01 202325" src="https://github.com/user-attachments/assets/fcf3906a-13df-4143-9e68-0ca4909826b0" />
